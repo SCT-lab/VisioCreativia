@@ -21,12 +21,23 @@ Everything should be in the Plugins > MetaVision Content > Tools
   <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Screenshot%202024-07-25%20125035.png" alt="DigiFungi Visual Example4" width="400">
 </p>
 
+## Examples
+Below are some examples of galleries created using the tool, without code. Each gallery was created in ~5 hours development time.
+https://
+https://
+
+<p align="center">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture1.png" alt="VisioCreativia Visual Example1" width="400" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture8.png" alt="VisioCreativia Visual Example2" width="400" style="display: inline-block;">
+</p>
+
+
 ## Developer notes - Exporting: How do I get my gallery online?
 The easiest option is to export the contents in .GTLF format which is a royalty-free specification for the efficient transmission and loading of 3D models, designed to be the "JPEG of 3D" and widely used in web and mobile applications for its compactness and ease of use. Meaning you can export your 3D gallery to a web page. An example is below:
 
 <p align="center">
   <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture3.png" alt="gltf gallery" width="400" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture11.png" alt="gltf inside gallery" width="400" style="display: inline-block;">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture11.png" alt="gltf inside gallery" width="395" style="display: inline-block;">
 </p>
 
 Other options we explored include Pixel Streaming, or 3D video rendering.
