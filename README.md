@@ -3,7 +3,7 @@ Digital Art Galleries for the Metaverse
 
 <p align="center">
   <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture7.png" alt="VisioCreativia Visual Example" width="400" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/logo4.PNG" alt="VisioCreativia Logo" width="400" style="display: inline-block;">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/logo4.PNG" alt="VisioCreativia Logo" width="200" style="display: inline-block;">
 </p>
 
 ## What is VisioCreativia?
