@@ -23,12 +23,15 @@ Everything should be in the Plugins > MetaVision Content > Tools
 
 ## Examples
 Below are some examples of galleries created using the tool, without code. Each gallery was created in ~5 hours development time.
-https://
-https://
 
 <p align="center">
   <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture1.png" alt="VisioCreativia Visual Example1" width="400" style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture8.png" alt="VisioCreativia Visual Example2" width="345" style="display: inline-block;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture7.png" alt="VisioCreativia Visual Example1" width="400" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture5.png" alt="VisioCreativia Visual Example2" width="400" style="display: inline-block;">
 </p>
 
 
