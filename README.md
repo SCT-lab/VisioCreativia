@@ -28,7 +28,7 @@ https://
 
 <p align="center">
   <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture1.png" alt="VisioCreativia Visual Example1" width="400" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture8.png" alt="VisioCreativia Visual Example2" width="380" style="display: inline-block;">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture8.png" alt="VisioCreativia Visual Example2" width="350" style="display: inline-block;">
 </p>
 
 
@@ -37,7 +37,7 @@ The easiest option is to export the contents in .GTLF format which is a royalty-
 
 <p align="center">
   <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture3.png" alt="gltf gallery" width="400" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture11.png" alt="gltf inside gallery" width="390" style="display: inline-block;">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture11.png" alt="gltf inside gallery" width="389" style="display: inline-block;">
 </p>
 
 Other options we explored include Pixel Streaming, or 3D video rendering.
