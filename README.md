@@ -1,8 +1,9 @@
 # VisioCreativia
 Digital Art Galleries for the Metaverse
 
-![VisioCreativia Visual Example](https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture7.png)
-
+<p align="center">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Picture7.png" alt="DigiFungi Visual Example4" width="400">
+</p>
 
 ## What is VisioCreativia?
 VisioCreativia is funded by the EU Next Generation Internet (NGI) initiative (REF) and is set up as a plug-in for Unreal engine.
@@ -14,7 +15,7 @@ MetaVision requires Unreal Engine 5.3.2 and Procedural Content Generation(PCG) F
 Everything should be in the Plugins > MetaVision Content > Tools
 
 <p align="center">
-  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Screenshot%202024-07-25%20125035.png" alt="DigiFungi Visual Example4" width="300">
+  <img src="https://github.com/SCT-lab/VisioCreativia/blob/main/Images/Screenshot%202024-07-25%20125035.png" alt="DigiFungi Visual Example4" width="400">
 </p>
 
 
